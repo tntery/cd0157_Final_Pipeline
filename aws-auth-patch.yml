@@ -1,3 +1,4 @@
+# May contain sensitive information. Do not push to a public repo. Consider using environment variables. Remove this comment before patching this sample file.
 apiVersion: v1
 data:
   mapRoles: |
